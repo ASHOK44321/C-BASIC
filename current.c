@@ -2,7 +2,7 @@
 main()
 {
 	int unit;
-	float amt,surcharg,na;
+	float amt,surcharg=0,na;
 	printf("enter the units");
 	scanf("%d",&unit);
 	if (unit<200)
